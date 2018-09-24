@@ -19,7 +19,7 @@ Example :
 * For Windows Compiler : Works under Visual Studio >= 2015
 
 ### Download binaries :
-Go to release [page](https://github.com/UndeadBlow/PixelAnnotationTool/releases)
+Go to release [page](https://github.com/pmvsnlab/PixelAnnotationTool/releases)
 
 ### License :
 
